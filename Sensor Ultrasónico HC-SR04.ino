@@ -1,4 +1,4 @@
-/* Sensor ultrasónico HC-SR04 y tutorial de Arduino por Dejan Nedelkovski, www.HowToMechatronics.com */
+/* Sensor ultrasónico HC-SR04*/
 // define los números de los pines
 const int trigPin = 9;
 const int echoPin = 10;
